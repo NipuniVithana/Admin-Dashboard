@@ -19,6 +19,8 @@ To enhance user experience, the dashboard includes interactive elements and anim
 ### 5. Mobile Optimization and Responsive Design
 The admin dashboard is optimized for mobile devices and different screen sizes. It ensures that the layout adjusts seamlessly to provide a consistent user experience across all devices.
 
+![Screenshot (508)](https://github.com/NipuniVithana/Admin-Dashboard/assets/99274261/d6198007-f31b-475c-b587-4bbfc8886dfc)
+
 
 
 
